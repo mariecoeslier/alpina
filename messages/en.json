@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Alpina — Milano Cortina 2026 Winter Olympics",
+    "description": "The official app that turns your Olympic experience into unforgettable moments. Download Alpina for the Milano Cortina 2026 Winter Games."
+  },
+  "common": {
+    "skipToContent": "Skip to main content",
+    "brand": "Alpina"
+  },
+  "nav": {
+    "ariaLabel": "Main navigation",
+    "features": "Features",
+    "gallery": "News",
+    "download": "Download",
+    "downloadApp": "Download the app",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "languages": {
+      "en": "English",
+      "fr": "French"
+    }
+  },
+  "hero": {
+    "title": "Olympics 2026",
+    "tagline": "Experience the Games like never before!",
+    "description1": "The official app for the Milano Cortina 2026 Winter Olympics.",
+    "description2": "Live results, personalized alerts, and exclusive content so you never miss a moment.",
+    "downloadCard": "Download the app",
+    "qrCodeLabel": "QR code to download the app"
+  },
+  "stats": {
+    "activeUsers": "Active users",
+    "countries": "Countries covered",
+    "sports": "Olympic sports",
+    "coverage": "Live coverage"
+  },
+  "experienceIntro": {
+    "titleWords": ["Follow", "Live", "Share"],
+    "description": "Live results, personalized alerts, and exclusive content from Milano Cortina."
+  },
+  "features": {
+    "title": "A complete experience",
+    "subtitle": "Discover all the features that make this app your essential companion for the Olympic Games",
+    "items": [
+      {
+        "title": "Seamless experience",
+        "description": "Easily navigate between events, results, and real-time news with an intuitive interface."
+      },
+      {
+        "title": "Unique digital memories",
+        "description": "Capture and keep your favorite Olympic moments with photos, videos, and exclusive content."
+      },
+      {
+        "title": "Full personalization",
+        "description": "Follow your favorite sports and athletes, and receive personalized notifications based on your preferences."
+      },
+      {
+        "title": "Physical keepsakes",
+        "description": "Order personalized merchandise and create photo albums of your best moments."
+      },
+      {
+        "title": "Real-time updates",
+        "description": "Stay informed with instant notifications about results, medals, and highlights."
+      },
+      {
+        "title": "Emotional immersion",
+        "description": "Dive into the Olympic atmosphere with immersive content, exclusive interviews, and behind-the-scenes access."
+      }
+    ]
+  },
+  "download": {
+    "title": "Download the app now",
+    "description": "Available free on iOS and Android. Join millions of Olympic fans around the world.",
+    "button": "Download the app",
+    "compatibility": "Compatible with iOS 14+ and Android 8.0+"
+  },
+  "gallery": {
+    "title": "The spirit of the Winter Olympics",
+    "subtitle": "Discover the intensity and beauty of winter sports through the official app",
+    "watchVideo": "Watch video: {title}",
+    "items": [
+      {
+        "alt": "Fournier-Beaudry and Cizeron win ice dance gold – Milano Cortina 2026",
+        "href": "https://www.olympics.com/en/video/fournier-beaudry-et-cizeron-remportent-l-or-de-la-danse-sur-glace-milano-cortina-2026-x8681"
+      },
+      {
+        "alt": "Harrop and Anselmet deliver mixed relay gold for France – Milano Cortina 2026",
+        "href": "https://www.olympics.com/en/video/harrop-et-anselmet-offrent-l-or-du-relais-mixte-a-la-france-milano-cortina-2026"
+      },
+      {
+        "alt": "Michelon beats Simon – women's mass start Milano Cortina 2026",
+        "href": "https://www.olympics.com/en/video/michelon-s-impose-devant-simon-la-france-dicte-sa-loi-sur-le-depart-groupe-feminin-milano-cortina-2026"
+      }
+    ]
+  },
+  "footer": {
+    "about": "About",
+    "ourMission": "Our mission",
+    "team": "The team",
+    "press": "Press",
+    "app": "The app",
+    "allFeatures": "All features",
+    "gallery": "Gallery",
+    "download": "Download",
+    "support": "Support",
+    "helpCenter": "Help center",
+    "contactUs": "Contact us",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "privacyAria": "Read the privacy policy",
+    "terms": "Terms of use",
+    "termsAria": "Read the terms of use",
+    "cookies": "Cookie settings",
+    "cookiesAria": "Manage cookies",
+    "legalNotice": "Legal notice",
+    "copyright": "© {year} Milano Cortina 2026 Winter Olympics App. All rights reserved.",
+    "compliance": "GDPR, WCAG 2.1 AA, and RGAA 4.1 compliant"
+  },
+  "cookies": {
+    "title": "Cookie settings",
+    "description": "We use cookies to improve your experience and analyze how our site is used. By continuing, you accept our",
+    "privacyLink": "privacy policy",
+    "reject": "Decline",
+    "rejectAria": "Decline cookies",
+    "accept": "Accept",
+    "acceptAria": "Accept cookies"
+  },
+  "modal": {
+    "title": "Download the app",
+    "subtitle": "Milano Cortina 2026 Winter Olympics",
+    "compatibility": "Free · iOS 14+ and Android 8.0+"
+  },
+  "store": {
+    "appStore": "App Store",
+    "playStore": "Play Store",
+    "appStoreAria": "Download on the App Store",
+    "playStoreAria": "Download on Google Play"
+  }
+}

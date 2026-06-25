@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Alpina — JO d'Hiver 2026 Milano Cortina",
+    "description": "L'application officielle qui transforme votre expérience olympique en moments inoubliables. Téléchargez Alpina pour les JO d'Hiver 2026."
+  },
+  "common": {
+    "skipToContent": "Aller au contenu principal",
+    "brand": "Alpina"
+  },
+  "nav": {
+    "ariaLabel": "Navigation principale",
+    "features": "Fonctionnalités",
+    "gallery": "Actualité",
+    "download": "Télécharger",
+    "downloadApp": "Télécharger l'application",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "languages": {
+      "en": "Anglais",
+      "fr": "Français"
+    }
+  },
+  "hero": {
+    "title": "JO 2026",
+    "tagline": "Vivez les Jeux comme jamais !",
+    "description1": "L'application officielle des JO d'Hiver Milano Cortina 2026.",
+    "description2": "Résultats en direct, alertes personnalisées et contenus exclusifs pour ne rien manquer de l'événement.",
+    "downloadCard": "Télécharger l'app",
+    "qrCodeLabel": "Code QR pour télécharger l'application"
+  },
+  "stats": {
+    "activeUsers": "Utilisateurs actifs",
+    "countries": "Pays couverts",
+    "sports": "Sports olympiques",
+    "coverage": "Couverture en direct"
+  },
+  "experienceIntro": {
+    "titleWords": ["Suivez", "Vivez", "Partagez"],
+    "description": "Résultats en direct, alertes personnalisées et contenus exclusifs depuis Milano Cortina."
+  },
+  "features": {
+    "title": "Une expérience complète",
+    "subtitle": "Découvrez toutes les fonctionnalités qui font de cette application votre compagnon indispensable pour les Jeux Olympiques",
+    "items": [
+      {
+        "title": "Expérience sans friction",
+        "description": "Naviguez facilement entre les événements, résultats et actualités en temps réel avec une interface intuitive."
+      },
+      {
+        "title": "Souvenirs numériques uniques",
+        "description": "Capturez et conservez vos moments olympiques préférés avec des photos, vidéos et contenus exclusifs."
+      },
+      {
+        "title": "Personnalisation complète",
+        "description": "Suivez vos sports et athlètes favoris, recevez des notifications personnalisées selon vos préférences."
+      },
+      {
+        "title": "Souvenirs physiques",
+        "description": "Commandez des produits dérivés personnalisés et créez des albums photos de vos meilleurs moments."
+      },
+      {
+        "title": "Informations en temps réel",
+        "description": "Restez informé avec des notifications instantanées sur les résultats, médailles et moments forts."
+      },
+      {
+        "title": "Immersion émotionnelle",
+        "description": "Plongez dans l'ambiance olympique avec des contenus immersifs, interviews exclusives et coulisses."
+      }
+    ]
+  },
+  "download": {
+    "title": "Téléchargez l'application maintenant",
+    "description": "Disponible gratuitement sur iOS et Android. Rejoignez des millions de fans olympiques dans le monde entier.",
+    "button": "Télécharger l'app",
+    "compatibility": "Compatible avec iOS 14+ et Android 8.0+"
+  },
+  "gallery": {
+    "title": "L'esprit des JO d'hiver",
+    "subtitle": "Découvrez l'intensité et la beauté des sports d'hiver à travers l'application officielle",
+    "watchVideo": "Voir la vidéo : {title}",
+    "items": [
+      {
+        "alt": "Fournier-Beaudry et Cizeron remportent l'or de la danse sur glace – Milano Cortina 2026",
+        "href": "https://www.olympics.com/fr/video/fournier-beaudry-et-cizeron-remportent-l-or-de-la-danse-sur-glace-milano-cortina-2026-x8681"
+      },
+      {
+        "alt": "Harrop et Anselmet offrent l'or du relais mixte à la France – Milano Cortina 2026",
+        "href": "https://www.olympics.com/fr/video/harrop-et-anselmet-offrent-l-or-du-relais-mixte-a-la-france-milano-cortina-2026"
+      },
+      {
+        "alt": "Michelon s'impose devant Simon – départ groupé féminin Milano Cortina 2026",
+        "href": "https://www.olympics.com/fr/video/michelon-s-impose-devant-simon-la-france-dicte-sa-loi-sur-le-depart-groupe-feminin-milano-cortina-2026"
+      }
+    ]
+  },
+  "footer": {
+    "about": "À propos",
+    "ourMission": "Notre mission",
+    "team": "L'équipe",
+    "press": "Presse",
+    "app": "L'application",
+    "allFeatures": "Toutes les fonctionnalités",
+    "gallery": "Galerie",
+    "download": "Télécharger",
+    "support": "Support",
+    "helpCenter": "Centre d'aide",
+    "contactUs": "Nous contacter",
+    "faq": "FAQ",
+    "legal": "Légal",
+    "privacy": "Politique de confidentialité",
+    "privacyAria": "Lire la politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "termsAria": "Lire les conditions d'utilisation",
+    "cookies": "Gestion des cookies",
+    "cookiesAria": "Gérer les cookies",
+    "legalNotice": "Mentions légales",
+    "copyright": "© {year} Application JO d'Hiver 2026. Tous droits réservés.",
+    "compliance": "Conforme RGPD, WCAG 2.1 AA et RGAA 4.1"
+  },
+  "cookies": {
+    "title": "Gestion des cookies",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience et analyser l'utilisation de notre site. En continuant, vous acceptez notre",
+    "privacyLink": "politique de confidentialité",
+    "reject": "Refuser",
+    "rejectAria": "Refuser les cookies",
+    "accept": "Accepter",
+    "acceptAria": "Accepter les cookies"
+  },
+  "modal": {
+    "title": "Télécharger l'application",
+    "subtitle": "JO d'Hiver 2026 — Milano Cortina",
+    "compatibility": "Gratuit · iOS 14+ et Android 8.0+"
+  },
+  "store": {
+    "appStore": "App Store",
+    "playStore": "Play Store",
+    "appStoreAria": "Télécharger sur l'App Store",
+    "playStoreAria": "Télécharger sur Google Play"
+  }
+}
