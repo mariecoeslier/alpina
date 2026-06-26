@@ -115,8 +115,7 @@
     "cookies": "Gestion des cookies",
     "cookiesAria": "Gérer les cookies",
     "legalNotice": "Mentions légales",
-    "copyright": "© {year} Application JO d'Hiver 2026. Tous droits réservés.",
-    "compliance": "Conforme RGPD, WCAG 2.1 AA et RGAA 4.1"
+    "copyright": "© {year} Application JO d'Hiver 2026. Tous droits réservés."
   },
   "cookies": {
     "title": "Gestion des cookies",
@@ -129,7 +128,7 @@
   },
   "modal": {
     "title": "Télécharger l'application",
-    "subtitle": "JO d'Hiver 2026 — Milano Cortina",
+    "subtitle": "JO d'Hiver 2026 de Milano Cortina",
     "compatibility": "Gratuit · iOS 14+ et Android 8.0+"
   },
   "store": {

@@ -3,10 +3,10 @@
 import { useTranslations } from "next-intl";
 
 import { Button } from "@/components/ui/button";
-import { SidebarTrigger } from "@/components/ui/sidebar";
 import { IconDownload } from "./Icons";
 import { LanguageSwitcher } from "./LanguageSwitcher";
 import { Logo } from "./Logo";
+import { MobileNavMenu } from "./MobileNavMenu";
 
 interface NavigationProps {
   onDownloadClick: () => void;
@@ -26,7 +26,6 @@ export function Navigation({ onDownloadClick }: NavigationProps) {
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2.5">
-            <SidebarTrigger className="md:hidden -ml-2" />
             <Logo />
             <span className="font-semibold text-lg tracking-tight">{tCommon("brand")}</span>
           </div>
@@ -48,6 +47,8 @@ export function Navigation({ onDownloadClick }: NavigationProps) {
               {t("download")}
             </Button>
           </div>
+
+          <MobileNavMenu onDownloadClick={onDownloadClick} />
         </div>
       </div>
     </nav>

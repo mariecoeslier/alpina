@@ -92,12 +92,9 @@ export function Footer() {
         </div>
 
         <div className="pt-8 border-t border-border">
-          <div className="flex flex-col md:flex-row md:justify-between items-start md:items-center gap-4 text-left">
-            <p className="text-sm text-muted-foreground">
-              {t("copyright", { year: currentYear })}
-            </p>
-            <p className="text-sm text-muted-foreground">{t("compliance")}</p>
-          </div>
+          <p className="text-sm text-muted-foreground">
+            {t("copyright", { year: currentYear })}
+          </p>
         </div>
       </div>
     </footer>

@@ -107,7 +107,7 @@ export function Stats() {
   const stats: StatConfig[] = [
     { key: "activeUsers", end: 10, suffix: "M+" },
     { key: "countries", end: 50, suffix: "+" },
-    { key: "sports", end: 15, suffix: "" },
+    { key: "sports", end: 16, suffix: "" },
     { key: "coverage", staticValue: "24/7" },
   ];
 
