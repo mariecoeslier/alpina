@@ -6,7 +6,7 @@ import { FeatureCard } from "./FeatureCard";
 import { IconZap, IconCamera, IconSliders, IconGift, IconBell, IconHeart } from "./Icons";
 
 const featureIcons = [
-  <IconZap key="zap" className="size-6 md:size-8 bg-[#00000000]" />,
+  <IconZap key="zap" className="size-6 md:size-8" />,
   <IconCamera key="camera" className="size-6 md:size-8" />,
   <IconSliders key="sliders" className="size-6 md:size-8" />,
   <IconGift key="gift" className="size-6 md:size-8" />,

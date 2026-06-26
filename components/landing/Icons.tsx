@@ -24,34 +24,10 @@ export function IconDownload({ size = 24, ...p }: IconProps) {
   );
 }
 
-export function IconPlay({ size = 24, ...p }: IconProps) {
-  return (
-    <svg {...base(size, p)}>
-      <path d="M6 4.5l13 7.5-13 7.5V4.5z" />
-    </svg>
-  );
-}
-
-export function IconPlaySolid({ size = 24, ...p }: IconProps) {
-  return (
-    <svg {...base(size, { ...p, fill: "currentColor", stroke: "none" })}>
-      <path d="M6 4.5l13 7.5-13 7.5V4.5z" />
-    </svg>
-  );
-}
-
 export function IconMenu({ size = 24, ...p }: IconProps) {
   return (
     <svg {...base(size, p)}>
       <path d="M3 6h18M3 12h18M3 18h18" />
-    </svg>
-  );
-}
-
-export function IconClose({ size = 24, ...p }: IconProps) {
-  return (
-    <svg {...base(size, p)}>
-      <path d="M6 6l12 12M18 6L6 18" />
     </svg>
   );
 }

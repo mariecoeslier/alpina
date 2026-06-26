@@ -26,7 +26,6 @@
     "tagline": "Vivez les Jeux comme jamais !",
     "description1": "L'application officielle des JO d'Hiver Milano Cortina 2026.",
     "description2": "Résultats en direct, alertes personnalisées et contenus exclusifs pour ne rien manquer de l'événement.",
-    "downloadCard": "Télécharger l'app",
     "qrCodeLabel": "Code QR pour télécharger l'application"
   },
   "stats": {
@@ -71,9 +70,7 @@
   },
   "download": {
     "title": "Téléchargez l'application maintenant",
-    "description": "Disponible gratuitement sur iOS et Android. Rejoignez des millions de fans olympiques dans le monde entier.",
-    "button": "Télécharger l'app",
-    "compatibility": "Compatible avec iOS 14+ et Android 8.0+"
+    "description": "Disponible gratuitement sur iOS et Android. Rejoignez des millions de fans olympiques dans le monde entier."
   },
   "gallery": {
     "title": "L'esprit des JO d'hiver",
@@ -95,13 +92,9 @@
     ]
   },
   "footer": {
-    "about": "À propos",
-    "ourMission": "Notre mission",
-    "team": "L'équipe",
-    "press": "Presse",
     "app": "L'application",
     "allFeatures": "Toutes les fonctionnalités",
-    "gallery": "Galerie",
+    "gallery": "Actualité",
     "download": "Télécharger",
     "support": "Support",
     "helpCenter": "Centre d'aide",

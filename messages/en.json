@@ -26,7 +26,6 @@
     "tagline": "Experience the Games like never before!",
     "description1": "The official app for the Milano Cortina 2026 Winter Olympics.",
     "description2": "Live results, personalized alerts, and exclusive content so you never miss a moment.",
-    "downloadCard": "Download the app",
     "qrCodeLabel": "QR code to download the app"
   },
   "stats": {
@@ -71,9 +70,7 @@
   },
   "download": {
     "title": "Download the app now",
-    "description": "Available free on iOS and Android. Join millions of Olympic fans around the world.",
-    "button": "Download the app",
-    "compatibility": "Compatible with iOS 14+ and Android 8.0+"
+    "description": "Available free on iOS and Android. Join millions of Olympic fans around the world."
   },
   "gallery": {
     "title": "The spirit of the Winter Olympics",
@@ -95,13 +92,9 @@
     ]
   },
   "footer": {
-    "about": "About",
-    "ourMission": "Our mission",
-    "team": "The team",
-    "press": "Press",
     "app": "The app",
     "allFeatures": "All features",
-    "gallery": "Gallery",
+    "gallery": "News",
     "download": "Download",
     "support": "Support",
     "helpCenter": "Help center",
