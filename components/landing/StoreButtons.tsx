@@ -17,7 +17,7 @@ export function StoreButtons({ className, layout = "stack" }: StoreButtonsProps)
     <div
       className={cn(
         "flex",
-        isRow ? "w-full flex-row justify-between gap-4" : "flex-col gap-2.5",
+        isRow ? "w-full flex-col gap-2.5 md:flex-row md:justify-between md:gap-4" : "flex-col gap-2.5",
         className
       )}
     >
@@ -27,7 +27,7 @@ export function StoreButtons({ className, layout = "stack" }: StoreButtonsProps)
         rel="noopener noreferrer"
         className={cn(
           "flex items-center justify-center gap-3 bg-black hover:bg-black/90 active:scale-[0.98] transition-all rounded-xl px-4 py-3 shadow-md",
-          isRow && "min-w-0 flex-1"
+          isRow && "w-full md:min-w-0 md:flex-1"
         )}
         aria-label={t("appStoreAria")}
       >
@@ -43,7 +43,7 @@ export function StoreButtons({ className, layout = "stack" }: StoreButtonsProps)
         rel="noopener noreferrer"
         className={cn(
           "flex items-center justify-center gap-3 bg-white hover:bg-white/90 active:scale-[0.98] transition-all rounded-xl px-4 py-3 shadow-md border border-neutral-200",
-          isRow && "min-w-0 flex-1"
+          isRow && "w-full md:min-w-0 md:flex-1"
         )}
         aria-label={t("playStoreAria")}
       >

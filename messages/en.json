@@ -36,8 +36,8 @@
     "coverage": "Live coverage"
   },
   "experienceIntro": {
-    "titleWords": ["Follow", "Live", "Share"],
-    "description": "Live results, personalized alerts, and exclusive content from Milano Cortina."
+    "titleWords": ["Collect", "scan", "share"],
+    "description": "Scan QR codes at venues and unlock exclusive mascots for each Olympic discipline."
   },
   "features": {
     "title": "A complete experience",

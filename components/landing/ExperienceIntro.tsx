@@ -7,31 +7,31 @@ export function ExperienceIntro() {
   const t = useTranslations("experienceIntro");
 
   return (
-    <section className="py-10 md:py-20" aria-labelledby="experience-intro-title">
+    <section className="relative overflow-hidden py-10 md:py-20" aria-labelledby="experience-intro-title">
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 lg:gap-16 items-center">
-          <div className="relative z-0 mx-auto w-full max-w-xs sm:max-w-md lg:max-w-none min-h-[360px] sm:min-h-[400px] lg:min-h-[560px] py-4 md:py-6 lg:py-10 overflow-hidden lg:overflow-visible">
+          <div className="relative z-0 mx-auto w-full max-w-[260px] sm:max-w-[300px] lg:max-w-[240px] xl:max-w-[280px] h-[430px] sm:h-[470px] lg:h-[450px] shrink-0 overflow-hidden lg:justify-self-center">
             <div
-              className="absolute top-4 left-3 sm:top-6 sm:left-4 lg:left-6 w-[62%] sm:w-[68%] aspect-[3/4] rounded-2xl overflow-hidden shadow-xl rotate-[-8deg] z-10 border-4 border-white"
+              className="absolute top-3 left-2 sm:top-4 sm:left-3 lg:top-4 lg:left-2 w-[58%] aspect-[9/19] rounded-2xl overflow-hidden shadow-xl rotate-[-8deg] z-10 border-4 border-white bg-white"
               aria-hidden="true"
             >
               <Image
-                src="/gallery/image-2.png"
+                src="/home.jpg"
                 alt=""
                 fill
-                className="object-cover"
+                className="object-contain"
                 sizes="(max-width: 1024px) 70vw, 400px"
               />
             </div>
             <div
-              className="absolute bottom-4 right-3 sm:bottom-6 sm:right-4 lg:right-6 w-[62%] sm:w-[68%] aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl rotate-[6deg] z-20 border-4 border-white"
+              className="absolute bottom-3 right-2 sm:bottom-4 sm:right-3 lg:bottom-4 lg:right-2 w-[58%] aspect-[9/19] rounded-2xl overflow-hidden shadow-2xl rotate-[6deg] z-20 border-4 border-white bg-white"
               aria-hidden="true"
             >
               <Image
-                src="/gallery/image.png"
+                src="/mascots.jpg"
                 alt=""
                 fill
-                className="object-cover"
+                className="object-contain"
                 sizes="(max-width: 1024px) 70vw, 400px"
               />
             </div>

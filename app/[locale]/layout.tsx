@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Montserrat } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { hasLocale } from "next-intl";
@@ -7,6 +8,12 @@ import { notFound } from "next/navigation";
 import "../globals.css";
 import { Providers } from "@/components/providers";
 import { routing } from "@/i18n/routing";
+
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-sans",
+});
 
 type Props = {
   children: React.ReactNode;
@@ -38,7 +45,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = await getMessages();
 
   return (
-    <html lang={locale} dir="ltr" className="h-full antialiased">
+    <html lang={locale} dir="ltr" className={`h-full antialiased ${montserrat.variable}`}>
       <body className="min-h-full">
         <NextIntlClientProvider messages={messages}>
           <Providers>{children}</Providers>
